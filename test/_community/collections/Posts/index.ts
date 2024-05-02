@@ -7,7 +7,7 @@ export const postsSlug = 'posts'
 export const PostsCollection: CollectionConfig = {
   fields: [
     {
-      name: 'text',
+      name: 'text2',
       type: 'text',
     },
     {
